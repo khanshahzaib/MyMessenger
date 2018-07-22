@@ -18,4 +18,5 @@ public class ReceiveMessageActivity extends Activity {
         TextView messageView = (TextView)findViewById(R.id.message);
         messageView.setText(messageText);
     }
+//    hello
 }
